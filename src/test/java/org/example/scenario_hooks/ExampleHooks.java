@@ -3,7 +3,7 @@ package org.example.scenario_hooks;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import org.example.steps.CustomDebugSteps;
-import ru.ibsqa.qualit.utils.spring.SpringUtils;
+import ru.ibsqa.chameleon.utils.spring.SpringUtils;
 
 // Примеры выполнения действий до и после каждого сценария
 public class ExampleHooks {
